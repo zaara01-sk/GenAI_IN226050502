@@ -1,12 +1,3 @@
-Establishing your intent: You want a comprehensive, professional-grade `README.md` that not only meets the internship requirements but also serves as a high-quality portfolio piece for your GitHub.
-
-[cite_start]Below is a detailed Markdown file designed to showcase your technical proficiency in **LangChain Expression Language (LCEL)** and **LLM Observability**[cite: 169, 181].
-
----
-
-### **Refined README.md**
-
-```markdown
 # 🤖 AI Resume Screening System with LangSmith Tracing
 
 [![LangChain](https://img.shields.io/badge/Framework-LangChain-blue)](https://python.langchain.com/)
@@ -112,4 +103,3 @@ This project provided deep insights into building production-level LLM applicati
 **Submitted for Innomatics Research Labs Data Science Internship | [cite_start]February 2026**[cite: 142].
 ```
 
----
